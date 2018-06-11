@@ -10,3 +10,4 @@
 [Neverson Bento da Silva](https://github.com/Dersaun)<br>
 [Igor Paschoa](https://github.com/igorpaschoa)<br>
 [Janderson Ferreira Machado](https://github.com/developmentlibrary)<br>
+[Taysa Mendes](https://github.com/taysamendes)<br>
