@@ -12,3 +12,4 @@
 [Janderson Ferreira Machado](https://github.com/developmentlibrary)<br>
 [Taysa Mendes](https://github.com/taysamendes)<br>
 [Yuri Wingester](https://github.com/rabbitmz)<br>
+[Anderson Pissulin](https://github.com/pissulin)<br>
